@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(231, 219, 204, 0.925);
+}
+
+
+
+.jumbotron {
+  background-image: url("../images/bacteria.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  background-blend-mode: normal;
+  color: rgb(253, 253, 253);
+}
+
+.article-title, .article-p {
+  padding: 20px;
+}
+form {
+  padding: 5px;
+}
